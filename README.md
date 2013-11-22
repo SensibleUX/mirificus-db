@@ -21,3 +21,7 @@ Extends CallerException to aid in debugging.
 ## DatabaseRow
 
 ![Mirificus logo](http://sensibleux.com/wp-content/uploads/2013/09/mirificus.png "Mirificus PHP Library")
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/SensibleUX/mirificus-db/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
